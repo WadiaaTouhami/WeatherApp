@@ -100,7 +100,7 @@ if page == "🏠 Home":
 
     )
 
-    st.image("https://source.unsplash.com/1024x400/?nature,environment", caption="Environmental Insights at Your Fingertips 🌎")
+    # st.image("https://source.unsplash.com/1024x400/?nature,environment", caption="Environmental Insights at Your Fingertips 🌎")
 
 
 elif page == "🌡️ Temperature":
